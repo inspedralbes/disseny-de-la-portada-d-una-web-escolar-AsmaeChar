@@ -1,0 +1,71 @@
+/* General setup */
+
+@import url('https://fonts.googleapis.com/css2?family=Asap&display=swap');
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 auto;
+    min-width: 1000px;
+    max-width: 1400px;
+    font-family: 'Asap', sans-serif;
+    line-height: 20px;
+}
+
+h2 {
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+    font-size: 25px;
+    letter-spacing: 1px;
+}
+
+a {
+    color: #10BBF9;
+    text-decoration: none;
+}
+
+a:hover {
+    color: olivedrab;
+}
+
+
+/* Layout */
+
+section {
+    float: left;
+    width: 50%;
+}
+
+aside {
+    float: left;
+    width: 30%;
+}
+
+nav {
+    float: left;
+    width: 20%;
+}
+
+footer {
+    clear: both;
+}
+
+header,
+section,
+aside,
+nav,
+footer {
+    padding: 20px;
+}
+
+
+/* header and footer */
+
+header,
+footer {
+    border-top: 5px solid #10BBF9;
+    border-bottom: 5px solid #10BBF9;
+}
+
+
+/* WRITE YOUR CODE BELOW HERE */
