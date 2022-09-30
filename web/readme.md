@@ -1,10 +1,6 @@
-# Carpeta _/web_
+# UF1 NF1 Pt4 Composició bàsica
 
-Aquesta carpeta ha de contenir l'aplicació, tot el que s'hagi de posar a la carpeta "public_html" del site.
-Típicament, els següents fitxers organitzats en les carpetes corresponents:
- -  html
- -  php
- -  png,jpg ...
- -  js
- -  css
- -  
+## Asmae Charroud
+
+En questa pràctica he modificat el css i l'html de l'exercici de MDN: https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Typesetting_a_homepage  
+
