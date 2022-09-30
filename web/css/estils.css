@@ -20,12 +20,27 @@ h2 {
 }
 
 a {
+    text-align: center;
     color: #10BBF9;
-    text-decoration: none;
+    text-decoration: underline;
+    margin-top: 1cm;
+    padding-top: 5px;
+}
+
+p {
+    word-spacing: 8px;
+    color: rgb(58, 58, 58);
+    text-indent: 20px;
 }
 
 a:hover {
     color: olivedrab;
+    text-decoration: none;
+}
+
+li {
+    list-style: circle;
+    margin-bottom: 0.5cm;
 }
 
 
@@ -41,9 +56,29 @@ aside {
     width: 30%;
 }
 
+nav li {
+    border-radius: 5px;
+    text-align: center;
+    height: 1cm;
+    margin-right: 1cm;
+    border-style: none;
+    background-color: floralwhite;
+    list-style: none;
+    margin-bottom: 0.5cm;
+}
+
+nav li:hover {
+    background-color: rgb(228, 242, 248);
+    color: olivedrab;
+}
+
 nav {
+    list-style: norgb(110, 110, 110);
+    margin-top: 2cm;
     float: left;
     width: 20%;
+    background-color: #c8f0ff;
+    box-shadow: 17px 14px 25px -2px rgba(173, 173, 173, 1);
 }
 
 footer {
